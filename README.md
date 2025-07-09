@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/efforthye/leetcode-algorithm/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/efforthye/leetcode-algorithm/tree/master/0087-scramble-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/efforthye/leetcode-algorithm/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
