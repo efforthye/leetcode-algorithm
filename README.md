@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/efforthye/leetcode-algorithm/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/efforthye/leetcode-algorithm/tree/master/0134-gas-station) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/efforthye/leetcode-algorithm/tree/master/0087-scramble-string) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/efforthye/leetcode-algorithm/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
