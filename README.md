@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/efforthye/leetcode-algorithm/tree/master/0087-scramble-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/efforthye/leetcode-algorithm/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/efforthye/leetcode-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/efforthye/leetcode-algorithm/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 <!---LeetCode Topics End-->
