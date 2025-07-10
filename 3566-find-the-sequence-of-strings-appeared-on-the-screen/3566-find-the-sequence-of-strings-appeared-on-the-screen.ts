@@ -10,11 +10,10 @@ function stringSequence(target: string): string[] {
         current += 'a';
         result.push(current);
         
-        // 목표 문자가 될 때까지 마지막 문자 변경
-        while (current[current.length - 1] !== target[i]) {
-            const lastChar = current[current.length - 1];
-            const nextChar = String.fromCharCode(lastChar.charCodeAt(0) + 1);
-            current = current.slice(0, -1) + nextChar;
+        // 목표 문자까지 직접 계산해서 추가
+        const targetCharCode = target.charCodeAt(i);
+        for (let charCode = 97; charCode < targetCharCode; charCode++) { // 'a' = 97
+            current = current.slice(0, -1) + String.fromCharCode(charCode + 1);
             result.push(current);
         }
     }
